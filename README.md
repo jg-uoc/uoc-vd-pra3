@@ -1,10 +1,10 @@
 # Evolució de la matriculació de vehicles elèctrics a Espanya (2018-2022)
 
-Estudis: UOC - Master en Ciència de Dades
-Assignatura: Visualització de dades
-Pràctica 2: Creació i lliurament d'una visualització de dades
-Autor: José V. Grimalt Aranda
-Gener, 2022.
+**Estudis**: UOC - Master en Ciència de Dades  
+**Assignatura**: Visualització de dades  
+**Pràctica 2**: Creació i lliurament d'una visualització de dades  
+**Autor**: José V. Grimalt Aranda  
+Gener, 2022.  
 
 ## Taula de continguts
 - [Evolució de la matriculació de vehicles elèctrics a Espanya (2018-2022)](#evolució-de-la-matriculació-de-vehicles-elèctrics-a-espanya-2018-2022)
