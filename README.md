@@ -9,7 +9,7 @@ Gener, 2022.
 ## Taula de continguts
 - [Evolució de la matriculació de vehicles elèctrics a Espanya (2018-2022)](#evolució-de-la-matriculació-de-vehicles-elèctrics-a-espanya-2018-2022)
   - [Taula de continguts](#taula-de-continguts)
-  - [Contingut del vídeo](#contingut-del-vídeo)
+  - [Presentacio i fitxers del conjunt de dades i codi](#presentacio-i-fitxers-del-conjunt-de-dades-i-codi)
   - [El conjunt de dades que es visualitza.](#el-conjunt-de-dades-que-es-visualitza)
   - [Creació i desenvolupament](#creació-i-desenvolupament)
   - [Les preguntes que respon la visualització.](#les-preguntes-que-respon-la-visualització)
@@ -17,13 +17,10 @@ Gener, 2022.
   - [Elements interactius](#elements-interactius)
   - [Conclusions](#conclusions)
 
-## Contingut del vídeo
+## Presentacio i fitxers del conjunt de dades i codi
 
-1. [20%] El procés de creació seguit i les decisions de disseny que s'hagin pres al llarg del desenvolupament.
-2. [20%] La presentació in situ de la visualització, és a dir, comentar les característiques de la visualització mentre es navega.
-3. [15%] El conjunt de dades que es visualitza.
-4. [20%] Les preguntes que respon la visualització.
-5. [15%] Els elements interactius disponibles com a part de la visualització.
+* Presentació: [Evolució de la matriculació de vehicles elèctrics a Espanya (2018-2022)](https://public.flourish.studio/story/1812773/)    
+* Codi i conjunt de dades: [github.com/jg-uoc/uoc-vd-pra3](https://github.com/jg-uoc/uoc-vd-pra3)   
 
 ## El conjunt de dades que es visualitza.
 
@@ -61,6 +58,8 @@ El procés de creació seguit:
 - Per la complexitat i el volum de dades del dataset original, al haver de tractar diversos error o dades no homgènies he hagut de simplificar l'objectiu inicial i deixar de banda les dades per localitats i un anàlisi més profund de les emisions de CO2.
   
 - El valor de total agregat de CO2 és una aproximació dels kg/km que emetirien el conjunt de vehicles matriculats eixe periode.
+
+- He fet serveri Flourish perquè m'he sentit més còmode ja que l'he utilitzat anteriorment i permet molta flexibilitat per personalitzar les visualitzacions entre les plantilles disponibles. Volia intentar fer servir Tableau Public, però no he pogut dedicar suficient temps.
 
 - He itentat utiltzar gràfics diferents als que ja havia utilitzat en pràctiques anterior, però o bé eren massa senzill i mostraven poca informació, o bé per la seua complexitat no ha aconseguit un resultat adient.
  
@@ -119,7 +118,6 @@ Evolució del vehicle elèctric a Espanya
 - També podem escollir la comunitat autonoma des de la llegenda
 - I també es mostra informació completa en una panel al fer clic sobre el cercle que representa cada província
 
-
 ## Conclusions
 
 - S'observa un creixement molt lent del vehicle elèctric
@@ -127,4 +125,3 @@ Evolució del vehicle elèctric a Espanya
 - De moment no hi ha altres alternatives significatives al vehicle elèctric, atés la baixa representació de l'hidrogen GLC, GNL, REEV
   
 - Caldrà esbrinar les raons d'aquest creixement tant lent: desconfiança dels usuaris, poca inversió en punts de càrrega, dificultat de les ajudes...
-
