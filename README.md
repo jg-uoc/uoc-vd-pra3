@@ -68,7 +68,15 @@ El procés de creació seguit:
 
 - En aquesta visualització he ajuntat als elèctrics la categoria de vehicles híbribs endollabes atés que, malgrat es pot considerar com a a vehicle de combustió, si s'utilitza resposablement per part dels propietaris (junt a futures regualcions) és un element clau per aconseguir baixar les emisison especialment en entorns urbans.
 
-- També hauri volgut incloure alguna variable amb les dades de matriculacions acumulades, però no 
+- També hauria volgut incloure alguna variable amb les dades de matriculacions acumulades, però no he trobat una opció senzilla i que aportés més valor explicatiu.
+
+Fitxers de codi:
+
+Es tracta de 3 fitxers Jupyter Notebook amb el codi Python utilitzat:
+
+* `01-preparar-dades.ipynb`: utiltzat per explorar les dades incialment  
+* `02-importa-dades.ipynb`: per tractar els fitxers TXT descarregats, fer la neteja, transformacions i filtres i exportar a CSV   
+* `03-agrupa-dades.ipynb`: llegeix els CSV i prepara les dades agrupades per a generar els dataset que utiltzen les visualitzcions  
 
 ## Les preguntes que respon la visualització.
 
