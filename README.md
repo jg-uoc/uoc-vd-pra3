@@ -47,7 +47,7 @@ Gener, 2022.
 
 * Dataset utiltizats en les visualitzacions:
   - [matricula_mensuals_españa_2018-2022](matricula_mensuals_españa_2018-2022.zip): (12 MB) conté tota la inforamació tractada i d'on es treurà el contingut dels dataset per a les visaulitzacions
-  - [matriculacions_co2_2018-2022.csv](matriculacions_co2_2018-2022.csv): dades agrupades per mes, per a la visaulització introductoria d'evolució
+  - [matriculacions_co2_2018-2022.csv](matriculacions_co2_2018-2022.csv): dades agrupades per mes, per a la visualització introductoria d'evolució
   - [matriculacions_ev_provincia_2018-2022.csv](matriculacions_ev_provincia_2018-2022.zip): dades agregades per mes i províncies
 
 ## Creació i desenvolupament
