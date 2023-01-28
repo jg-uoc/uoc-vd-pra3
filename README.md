@@ -46,9 +46,9 @@ Gener, 2022.
     - Selecció dels camps finals per analitzar
 
 * Dataset utiltizats en les visualitzacions:
-  - `matricula_mensuals_españa_2018-2022`: (12 MB) conté tota la inforamació tractada i d'on es treurà el contingut dels dataset per a les visaulitzacions
-  - `matriculacions_co2_2018-2022.csv`: dades agrupades per mes, per a la visaulització introductoria d'evolució
-  - `matriculacions_ev_provincia_2018-2022.csv`: dades agregades per mes i províncies
+  - [matricula_mensuals_españa_2018-2022](matricula_mensuals_españa_2018-2022.zip): (12 MB) conté tota la inforamació tractada i d'on es treurà el contingut dels dataset per a les visaulitzacions
+  - [matriculacions_co2_2018-2022.csv](matriculacions_co2_2018-2022.csv): dades agrupades per mes, per a la visaulització introductoria d'evolució
+  - [matriculacions_ev_provincia_2018-2022.csv](matriculacions_ev_provincia_2018-2022.zip): dades agregades per mes i províncies
 
 ## Creació i desenvolupament
 
@@ -74,9 +74,9 @@ Fitxers de codi:
 
 Es tracta de 3 fitxers Jupyter Notebook amb el codi Python utilitzat:
 
-* `01-preparar-dades.ipynb`: utiltzat per explorar les dades incialment  
-* `02-importa-dades.ipynb`: per tractar els fitxers TXT descarregats, fer la neteja, transformacions i filtres i exportar a CSV   
-* `03-agrupa-dades.ipynb`: llegeix els CSV i prepara les dades agrupades per a generar els dataset que utiltzen les visualitzcions  
+* [01-preparar-dades.ipynb](01-preparar-dades.ipynb): utiltzat per explorar les dades incialment  
+* [02-importa-dades.ipynb](02-importa-dades.ipynb): per tractar els fitxers TXT descarregats, fer la neteja, transformacions i filtres i exportar a CSV   
+* [03-agrupa-dades.ipynb](03-agrupa-dades.ipynb): llegeix els CSV i prepara les dades agrupades per a generar els dataset que utiltzen les visualitzcions  
 
 ## Les preguntes que respon la visualització.
 
